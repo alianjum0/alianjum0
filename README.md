@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alianjum0
+- 👀 I’m interested in developing RESTful services in NodeJS
+- 🌱 I’m currently learning NodeJS development in Typescript 
+- 💞️ I’m looking to collaborate on Blockchain applications
+- 📫 How to reach me linkedIn @alianjum0
