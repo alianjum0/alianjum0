@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Ali Anjum.
 - 💼 Freelancer | Developer 
-- 👀 Senior software engineer with master’s in computer science and five years of professional experience in Node.js
+- 👀 Senior software engineer with master’s in computer science and six years of professional experience in Node.js
 - 🏆 Top rated @Upwork
 - ✅ Certified @Toptal
 - 🏆 Database optimization, problem solving, traveling
