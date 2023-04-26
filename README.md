@@ -29,7 +29,7 @@
   - Developed and deployed a CI/CD pipeline for the MERN application on AWS using Github Actions, AWS EC2, and Docker.
   - Added Cloudwatch for unified monitoring.
   - Added alerts for disc utilisation and CPU utilisation.
-  - Skills: Node.JS, React, Docker, Docker-Compose, AWS EC2, AWS CloudWatch, Cloudflare, 
+  - Skills: Node.JS, React, Docker, Docker-Compose, AWS EC2, AWS CloudWatch, Cloudflare
   - [Upwork client review](https://www.linkedin.com/posts/alianjum0_see-how-i-can-get-your-project-done-on-upwork-activity-7056952510732771330-ghi1)
 
 ### Time Series with MongoDB optimization
@@ -41,7 +41,7 @@
 ### Shopify Scrapping Bot
   - Developed a generic bot to scrape all products from a Shopify or e-commerce website.
   - [Github](https://github.com/alianjum0/shopify-scraper)
-  - Skills: Node.JS, Shopify, Metascraper, 
+  - Skills: Node.JS, Shopify, Metascraper
   - [Upwork client review](https://www.linkedin.com/posts/alianjum0_see-how-i-can-get-your-project-done-on-upwork-activity-7056949898117586944-gubV)
 
 ### Tensorflow categorical model to Node API
