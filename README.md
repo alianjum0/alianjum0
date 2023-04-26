@@ -22,7 +22,7 @@
 ### Database and Queries for Node.js Dashboard (PostgreSQL and Prisma)
   - Data: 1.5 million
   - Execution time: reduced query time from 15 seconds to 2 seconds.
-  - Node.JS, GraphQL, PostgreSQL, Prisma, and Svelte
+  - Skills: Node.JS, GraphQL, PostgreSQL, Prisma, and Svelte
   - [Upwork client review](https://www.linkedin.com/posts/alianjum0_see-how-i-can-get-your-project-done-on-upwork-activity-7028661467587452928-zfOj)
   
 ### MERN Dev-Ops
@@ -35,7 +35,7 @@
 ### Time Series with MongoDB optimization
   - Data: MongoDB has 30 million records.
   - Execution time: reduced query time from 60 seconds to 2 seconds.
-  - MongoDB, Time Series Data
+  - Skills: MongoDB, Time Series Data
   - [Upwork client review](https://www.linkedin.com/posts/alianjum0_see-how-i-can-get-your-project-done-on-upwork-activity-7028660434664615936-RFCj)
  
 ### Shopify Scrapping Bot
