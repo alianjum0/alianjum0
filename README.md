@@ -11,6 +11,14 @@
 * Master’s in [Computer Engineering](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa.corsi?p_sdu_cds=37:10&p_a_acc=2018&p_header=N&p_lang=EN) from [Politecnico Di Torino](https://www.polito.it/)  2017 - 2019
 * Bachelor’s in [Software Engineering](http://www.seecs.nust.edu.pk/Departments/Software-Engineering) from [National University of Sciences and Technology](http://www.seecs.nust.edu.pk/)  2011 - 2015
 
+## Experience
+* **Software Team Lead**, Freelance, Austin, United States - 05/2023 - present: Designed and developed new onboarding and payment system with Easypaydirect and Paypal. 
+* **Software Engineer**: Freelance, Upwork: 08/2022 - 04/2023: Designed and developed backend for two MVP projects in Node.JS, Nest.JS, Prisma, PostgreSQL and GraphQL.
+* **Full-Stack Developer**, Spindox S.P.A., Turin, Italy - 01/2021 - 04/2022: Developed maintainable RESTful services in Node.js using express for Vodafone Italy.
+* **Research Assistant**, Computer Security, TORSEC, POLITO -03/2019 - 12/2019: Development of a WiFi access service with eIDAS for cross border authentication.
+* **Full-Stack Developer**, Freelance, Awesomebox Technologies, Lockport, Illinois, United States -08/2016 - 12/2018: Developed an IT assistant as a software solution using Node.js and NW.js.
+* **Software Design Engineer**, TeReSol Pvt Ltd, Islamabad - 11/2015 - 07/2016: Developed and implemented a RESTful web service for real-time vehicle tracking.
+* **Software Developer**, Freelance - 01/2015 - 10/2015: Cross platform mobile application and Node.js backend development.
 ## Projects
 ### Tickets Price Scrapping
   - Developed a scrapper using cheerio and axios. Reduced scrapping time from 5 minutes to 15 seconds from the old script. I deployed it on AWS Lambda using serverless.
