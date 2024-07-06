@@ -2,7 +2,7 @@
 - ✅ Certified @Toptal
 - 💼 Freelancer | Developer
 - 👀 Goal: Customer Satisfaction
-- 💼 Senior software engineer with master’s in computer science and six years of professional experience in Node.js
+- 💼 Senior software engineer with master’s in computer science and eight years of professional experience in Node.js
 - 🏆 Top rated @Upwork
 - 🏆 Database optimization, problem solving, traveling
 - 🔗 [Website](https://www.ali-anjum.com), [LinkedIn](https://linkedin.com/in/alianjum0), [Toptal](https://www.toptal.com/resume/muhammad-ali-anjum), [Github](http://github.com/alianjum0), [Upwork](https://www.upwork.com/freelancers/alianjum0)
