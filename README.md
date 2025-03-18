@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Muhammad Ali Anjum
+# Hi, I'm Muhammad Ali Anjum
 
-**✅ Certified Toptal Freelancer & Senior Software Engineer**
+**Certified Toptal Freelancer & Senior Software Engineer**
 
 Passionate Node.js specialist with **8+ years** of professional experience dedicated to **customer satisfaction** through innovative solutions, efficient database optimization, and robust problem-solving.
 
 ---
 
-### 🌟 Quick Highlights
+### Quick Highlights
 
 - 📚 **Education:** Master's in Computer Engineering | Bachelor's in Software Engineering
 - 🌎 **International Experience:** USA 🇺🇸 | Italy 🇮🇹 | Pakistan 🇵🇰
